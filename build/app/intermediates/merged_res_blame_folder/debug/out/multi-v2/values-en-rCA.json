@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.image_captioner.app-mergeDebugResources-15:/values-en-rCA/values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Athul Krishna\\.gradle\\caches\\transforms-3\\401e3fa5aba30c515133839c7436fb83\\transformed\\jetified-media2-session-1.2.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,159,256,350,471",
+                        "endColumns": "103,96,93,120,128",
+                        "endOffsets": "154,251,345,466,595"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Athul Krishna\\.gradle\\caches\\transforms-3\\270e9501dde0430a83746f97bf9ab544\\transformed\\core-1.8.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "600",
+                        "endColumns": "100",
+                        "endOffsets": "696"
+                    }
+                }
+            ]
+        }
+    ]
+}
